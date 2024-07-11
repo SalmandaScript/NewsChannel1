@@ -137,7 +137,7 @@ open("https://salmandascript.github.io/Salmandamusiq/");
 }
 
 function newsChannel(){
-open("https://salmandascript.github.io/NewsChannel1/");
+open("https://salmandascript.github.io/NewsChannel/");
 }
 
 function movieChannel(){
